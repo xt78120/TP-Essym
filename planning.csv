@@ -1,4 +1,4 @@
-Prénom;Nom;Date;Jour;Début;Fin;Obligatoire  
-Xavier;TAVARD;01/06/2021;8:30;9:30;FAUX
-xt78120;xt78120;01/06/2021;10:00;11:00;VRAI
-Jean;DUPONT;02/06/2021;10:00;11:00;FAUX
+Prénom;Nom;Date;Jour;Début;Fin;Obligatoire;Lieu;Thème
+Xavier;TAVARD;01/06/2021;8:30;9:30;FAUX;Rambouillet;Evaluation
+xt78120;xt78120;01/06/2021;10:00;11:00;VRAI;Paris;Meeting projet
+Jean;DUPONT;02/06/2021;10:00;11:00;FAUX;SQY;Visite client
